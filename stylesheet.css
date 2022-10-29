@@ -1,0 +1,122 @@
+body{
+    background: #F9F9F9;
+    margin: 0;
+    color: #1D3557;
+}
+h1{
+    margin: auto;
+    display: inline-block;
+    clear: both;
+}
+h2{
+    font-size: 2rem;
+    display: inline;
+}
+hr{
+    border-style: dotted;
+    border-top: none;
+    border-width: 5px;
+    width: 40%;
+    color: #CAF0F8;
+    clear: left;
+    margin-bottom: 2rem;
+}
+.profile-pic{
+    border-radius: 50%;
+    height: 13rem;
+    padding: 1rem 2rem;
+    float: left;
+}
+.name{
+    font-family: 'Sacramento', cursive;
+    color: #FF220C;
+    font-size: 4rem;
+    text-align: center;
+}
+.description{
+    color: #656a5f;
+    font-size: 1.3rem;
+    margin: 0 1rem 2rem 0;
+}
+.title{
+    margin: 1% 40%;
+}
+.pic{
+    height: 2.2rem;
+    float: left;
+    padding-right: 1rem;
+}
+table{
+    margin: auto;
+    text-align: center;
+    font-size: 1.3rem;
+}
+thead{
+    font-size: 1.4rem;
+    color: #457B9D;
+}
+tbody{
+    font-style:italic;
+}
+#t1{
+    color: #0096C7;
+}
+#t2{
+    color: #00B4D8;
+}
+.skills {
+    margin: 1rem auto;
+    width: 70%;
+}
+li{
+    margin: 1rem auto;
+    list-style-type: none;
+    font-size: 1.4rem;
+    display: inline-block;
+    padding: 0 40px;
+}
+a{
+    color: #1D3557;
+    text-decoration: none;
+    font-size: 1.4rem;
+}
+a:hover{
+    color: #FF220C;
+}
+p{
+    font-size: 1.2rem;
+    margin-bottom: 1.7rem;
+}
+.coding{
+    margin: auto;
+    width: 70%;
+}
+.prj{
+    width: 90%;
+    margin: auto;
+}
+.links{
+    color: #0096C7;
+}
+ol{
+    margin: auto;
+}
+.li1{
+    display: block;
+}
+.Contact{
+    color:#F9F9F9;
+    height: 300px;
+    background-color: #1D3557;
+    text-align: center;
+}
+h3{
+    padding-top: 40px;
+    font-size: 42px;
+    font-family: 'Gentium Book Basic', serif;
+}
+.new{
+    color:#F9F9F9;
+    font-size: 2rem;
+    font-family: 'Gentium Book Basic', serif;
+}
